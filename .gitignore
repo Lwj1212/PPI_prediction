@@ -1,0 +1,29 @@
+# D-SCRIPT
+D-SCRIPT/RESULT
+D-SCRIPT/models
+D-SCRIPT/preprocessing
+
+# DeepTrio
+DeepTrio/data
+DeepTrio/preprocessing
+DeepTrio/RESULT
+DeepTrio/models
+
+# PIPR
+PIPR/models
+PIPR/preprocessing
+PIPR/RESULT
+PIPR/preprocess_predict
+
+# ProteinPrompt
+ProteinPrompt/
+
+# raw data
+RAW_DATA
+*/__pycache__
+__pycache__
+*.log
+*.h5
+*.tsv
+*.csv
+DeepTrio-Result
